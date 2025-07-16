@@ -12,6 +12,8 @@ Newly designed paddle box
 
 ![image alt](https://github.com/Chalangana/FalconE/blob/64d09a47c8530cd9c0f03ce8954b232594fcbbb3/Screenshot%202025-07-16%20200646.png)
 
+![image alt](https://github.com/Chalangana/FalconE/blob/fa37745f30228df326d6fd7c120ee32985461faf/Screenshot%202025-07-16%20194140.png)
+
 Structural Analysis Result for the brake pedal
 
 ![image alt](https://github.com/Chalangana/FalconE/blob/1f47512585e71153f05fb252d95b8e033c3cbd7f/Screenshot%202025-01-20%20130025.png)
