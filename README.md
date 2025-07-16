@@ -8,7 +8,7 @@ Actively involved in broader manufacturing activities such as chassis and carbon
 
 Newly designed paddle box 
 
-![image alt](https://github.com/Chalangana/FalconE/blob/d31d88b04f16c84097d7b5aad156aa544b737b61/Screenshot%202025-03-18%20223521.png)
+![image alt](https://github.com/Chalangana/FalconE/blob/d31d88b04f16c84097d7b5aad156aa544b737b61/Screenshot 2025-07-16 194034.png)
 
 Structural Analysis Result for the brake pedal
 
