@@ -18,6 +18,6 @@ Newly designed paddle box
 
 ![image alt](https://github.com/Chalangana/FalconE/blob/a32414af6ef58b95c50959715ed7844c25dec665/Screenshot%202025-07-16%20194101.png)
 
-Structural Analysis Result for the brake pedal
+Structural Analysis Result for the Pedal box components
 
 ![image alt](https://github.com/Chalangana/FalconE/blob/1f47512585e71153f05fb252d95b8e033c3cbd7f/Screenshot%202025-01-20%20130025.png)
